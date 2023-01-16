@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap");
+
+@import "reset.css";
+@import "variables.css";
+
+/* Components */
+@import "components/no-mobile.css";
+@import "components/screen-header.css";
+@import "components/nav-bar.css";
+@import "components/user.css";
+@import "components/badge.css";
+
+/* Screens */
+@import "screens/login.css";
+@import "screens/friend.css";
+@import "screens/chat.css";
+@import "screens/setting.css";
+
+body {
+  color: #2e363e;
+  font-family: "Noto Sans Korean", sans-serif;
+}
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
+}

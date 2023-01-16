@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="kr">
+  <head>
+    <link rel="stylesheet" href="css/styles.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chat 나야 - Kokoa Clone</title>
+  </head>
+  <body id="chat-screen">
+    <header class="more-header">
+      <div class="more-header__column">
+        <a href="chats.html">
+          <i class="fas fa-angle-left fa-2x"></i>
+        </a>
+      </div>
+      <div class="more-header__column">
+        <h1 class="more-header__title">나야</h1>
+      </div>
+      <div class="more-header__column">
+        <span><i class="fas fa-search fa-lg"></i></span>
+        <span><i class="fas fa-bars fa-lg"></i></span>
+      </div>
+    </header>
+
+    <main class="main-screen main-chat">
+      <div class="chat__timestamp">2023년 1월 17일 화요일</div>
+
+      <div class="message-row message-row--own">
+        <div class="message-row__content">
+          <div class="message__info">
+            <span class="message__bubble">시작합시다!</span>
+            <span class="message__time">01:02</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="message-row">
+        <img
+          src="https://images.unsplash.com/photo-1515191107209-c28698631303?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzR8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        />
+        <div class="message-row__content">
+          <span class="message__author">나야</span>
+          <div class="message__info">
+            <span class="message__bubble">좋아요!</span>
+            <span class="message__time">01:17</span>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <form class="reply">
+      <div class="reply__column">
+        <i class="fa-solid fa-plus reply__plus"></i>
+      </div>
+      <div class="reply__column">
+        <input type="text" />
+        <button>
+          <i class="fas fa-arrow-up reply__up"></i>
+        </button>
+      </div>
+    </form>
+
+    <div id="no-mobile">
+      <span>모바일 화면 크기를 넘었습니다</span>
+    </div>
+
+    <script
+      src="https://kit.fontawesome.com/1ec8c9757a.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

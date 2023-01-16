@@ -1,0 +1,36 @@
+.nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: whitesmoke;
+  padding: 20px 50px;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(115, 99, 84, 0.3);
+}
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+}
+.nav__link {
+  position: relative;
+  color: var(--kokoa);
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.nav__notification {
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+  animation: fadeIn 2s ease-in-out infinite;
+}
