@@ -1,6 +1,6 @@
 # Web Basic Clones
 
-- HTML, CSS, Javascript For Beginners, SCSS, Full Stack Javascript Clones
+- HTML, CSS, Javascript For Beginners, SCSS, Full Stack Javascript.
 
 ## 1. Kokoa
 
