@@ -1,23 +1,21 @@
-# Web Basic Clones
-
 - HTML, CSS, Javascript For Beginners, SCSS, Full Stack Javascript.
 
-## 1. Kokoa
+## 1. [Kokoa](https://kim228sy.github.io/web-basic-clones/kokoa/)
 
 - HTML5, CSS3, Font Awesome, Github
 
-## 2. Nonentum
+## 2. [Nonentum](https://kim228sy.github.io/web-basic-clones/nonentum/)
 
 - Javascript, localStorage, AJAX, JSON, DOM, fetch, OpenWeather API
 
-## 3. JS Canvas
-
-- Javascript, Canvas, 2D Context, Pointer Events
-
-## 4. Scss Web
+## 3. [Scss-Web](https://kim228sy.github.io/web-basic-clones/scss-web/)
 
 - HTML5, CSS3, SCSS, FlexBox, CSSGrid
 
-## 5. Wetube
+## 4. [JS-Canvas](https://kim228sy.github.io/web-basic-clones/js-canvas/)
+
+- Javascript, Canvas, 2D Context, Pointer Events
+
+## 5. [Wetube](https://kim228sy.github.io/web-basic-clones/wetube/)
 
 - NodeJS, ES6, Express, Babel, Pug, Passport, AJAX, Webpack, SCSS, MongoDB, Mongoose, Multer, ESLint
