@@ -1,6 +1,6 @@
 # Web Basic Clones
 
-- HTML5, CSS3(SCSS), JavaScript Study
+- HTML, CSS, Javascript For Beginners, SCSS, Full Stack Javascript Clones
 
 ## 1. Kokoa
 
