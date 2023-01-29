@@ -1,4 +1,4 @@
-# web-basic-clones
+# Web Basic Clones
 
 - HTML5, CSS3(SCSS), JavaScript Study
 
