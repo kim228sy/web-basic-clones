@@ -15,7 +15,3 @@
 ## 4. [JS Canvas](https://kim228sy.github.io/web-basic-clones/js-canvas/)
 
 - Javascript, Canvas, 2D Context, Pointer Events
-
-## 5. [Wetube](https://kim228sy.github.io/web-basic-clones/wetube/)
-
-- NodeJS, ES6, Express, Babel, Pug, Passport, AJAX, Webpack, SCSS, MongoDB, Mongoose, Multer, ESLint
