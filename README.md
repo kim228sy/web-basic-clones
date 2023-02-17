@@ -1,4 +1,4 @@
-- HTML, CSS, Javascript For Beginners, SCSS, Full Stack Javascript.
+- HTML, CSS, Javascript For Beginners, SCSS.
 
 ## 1. [Kokoa](https://kim228sy.github.io/web-basic-clones/kokoa/)
 
